@@ -1,5 +1,5 @@
 ---
-title: Who is Andy
+title: Who is Andy Dyrcz?
 sections:
   - type: hero_section
     title: Andy Dyrcz has over 15 Years Experience
