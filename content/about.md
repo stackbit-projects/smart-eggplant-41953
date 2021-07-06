@@ -5,19 +5,7 @@ sections:
     title: Who We Are
     align: center
   - type: content_section
-    content: >-
-      Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
-      sit amet venenatis urna cursus eget nunc. Dui nunc mattis enim ut tellus.
-      Eu sem integer vitae justo eget magna fermentum. Habitant morbi tristique
-      senectus et netus et malesuada fames. Ipsum dolor sit amet consectetur
-      adipiscing elit pellentesque habitant.
-
-
-      Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Ac
-      felis donec et odio pellentesque. Sem nulla pharetra diam sit amet.
-      Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
-      neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
-      turpis in eu mi bibendum neque egestas.
+    content: "\n\nbuilding & leading innovative\_**web operations & information security**\_teams. He has focused his career working within the ecommerce sector as well as with entrepreneurial growth organizations where\_**technology**\_is their core business & product. Within these organizations, Andy has an accomplished record of building successful\_**cybersecurity, operations, and privacy programs**\_while promoting & embracing the ideas of\_**DevOps culture and practices**.\n"
   - type: team_section
     title: Our Team
     team:
