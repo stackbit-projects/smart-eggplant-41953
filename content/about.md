@@ -1,5 +1,5 @@
 ---
-title: Who We Are
+title: Who is Andy
 sections:
   - type: hero_section
     title: Andy Dyrcz has over 15 Years Experience
